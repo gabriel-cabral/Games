@@ -1,0 +1,20 @@
+Aula 07
+
+Loop 'for':
+	• Valida cada item em uma série de valores.
+
+	For item in rede-de-itens
+		executa comandos
+
+Podemos utilizar o loop 'for' em objetos sequenciais como:
+	• 'Strings';
+	• Listas;
+	• Tuplas;
+	• Elementos de dicionário;
+	• Arquivos.
+
+Loop 'while':
+	A instrução 'while' será executada repetidamente desde que uma condição seja verdadeira.
+	Ex.:
+		while(expressao1):
+			print("comando1")

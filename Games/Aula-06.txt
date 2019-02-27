@@ -1,0 +1,25 @@
+AUlA 06
+
+— CONDICIONAIS:
+   • Condicionais Aninhadas;
+   • ELIF/IF/ELSE.
+
+• IF:
+   O condicional "IF" nos permite dizer ao computador para executar ações com base em um determinado conjunto de resultados.
+   Exemplo:
+
+if(expressão1):
+	print("comando executado com a expressão1, caso verdadeiro")
+else:
+	print("comando executado com a expressão1, caso falso")
+
+• ELIF:
+   Substitui a necessidade de criar várias "if" e "else".
+   Exemplo:
+
+if(expressão1):
+	print("saída da expressão1")
+elif(expressão2):
+	print("saída da expressão2")
+else:
+	print("saída caso expressão1 e expressão2 forem falsas")
